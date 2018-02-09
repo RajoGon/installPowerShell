@@ -1,1 +1,1 @@
-New-Item  -Path "c:\" -Name myfile.txt -ItemType "file" -Force
+New-Item  -Path "d:\" -Name myfile.txt -ItemType "file" -Force
